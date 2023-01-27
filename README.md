@@ -1,4 +1,4 @@
-# TecBlog
+# TecBlog 💻
 
    TecBlog é um projeto desenvolvido para uma aula de Desenvolvimento Web/Mobile II no curso de Engenharia de Software, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB utilizando as linguagens HTML5 e CSS3, sendo um Blog sobre tecnologia e suas áreas, contendo notícias e  postagens sobre diversos assuntos.
 
